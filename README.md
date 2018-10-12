@@ -1,1 +1,1 @@
-# Js30-Drum-Kit
+# JS30-Drum-Kit
